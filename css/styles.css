@@ -17,9 +17,10 @@ button:hover {
 }
 
 img{
-    width: 300px;
+    width: 150px;
     transition: transform 0.5 ease-in-out;
     padding: 80px;
+    border-radius: 100px;
 }
 
 footer{
