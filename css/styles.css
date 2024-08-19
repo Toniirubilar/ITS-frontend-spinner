@@ -4,16 +4,15 @@ body{
     background-size: cover;
 }
 button{
-    background-color: rgb(81, 76, 87);
-    color: white;
+    background-color: rgb(63, 59, 66);
+    color: wheat;
     padding: 10px 20px;
     margin: 5px 5px;
     text-align: center;
     text-decoration: none;
-    border-radius: 14px;
-    display: inline-block;
+    border-radius: 10px;
     cursor: no-drop;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 button:hover {
