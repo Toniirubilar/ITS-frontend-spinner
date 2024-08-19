@@ -1,4 +1,8 @@
-
+body{
+    background-image: url(../assets/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 button{
     background-color: rgb(81, 76, 87);
     color: white;
