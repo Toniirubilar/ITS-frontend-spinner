@@ -18,6 +18,7 @@ button:hover {
 
 img{
     width: 150px;
+    height: 200px;
     transition: transform 0.5 ease-in-out;
     padding: 80px;
     border-radius: 100px;
